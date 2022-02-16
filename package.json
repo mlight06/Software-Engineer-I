@@ -1,0 +1,35 @@
+{
+  "name": "software-engineer-i",
+  "version": "1.0.0",
+  "description": "An interactive application for Pantheon Labs regarding candidate Michael Light",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlight06/Software-Engineer-I.git"
+  },
+  "author": "Michael Light",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlight06/Software-Engineer-I/issues"
+  },
+  "homepage": "https://github.com/mlight06/Software-Engineer-I#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^1.8.3",
+    "axios": "^0.26.0",
+    "express": "^4.17.2",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.12.0",
+    "@typescript-eslint/parser": "^5.12.0",
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0"
+  }
+}
